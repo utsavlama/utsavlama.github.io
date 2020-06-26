@@ -2,7 +2,7 @@
   "name": "portfolio-utsav",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://utsavlama.github.io/utsavlama.github.io",
+  "homepage": "https://github.com/utsavlama/utsavlama.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
